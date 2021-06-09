@@ -1,0 +1,17 @@
+2021-06-09 16:23:47 宠物商店1创立！！！
+2021-06-09 16:24:44 宠物商店1创立！！！
+2021-06-09 16:24:46 宠物商店1创立！！！
+2021-06-09 16:24:56  Decorator.Hair.HairDecoratorPattern@5b23c8fc 1 剪毛发 1是狗狗， 进行了以下美发操作：修剪毛发 
+2021-06-09 16:25:01  Decorator.Hair.HairDecoratorPattern@5b23c8fc 1 剪毛发完毕
+2021-06-09 16:25:04  Decorator.Hair.HairDecoratorPattern@5b23c8fc 1 洗澡 1是狗狗， 进行了以下美发操作：清洗毛发 
+2021-06-09 16:25:05  Decorator.Hair.HairDecoratorPattern@72614434 1 剪毛发 1是狗狗， 进行了以下美发操作：修剪毛发 
+2021-06-09 16:25:09  Decorator.Hair.HairDecoratorPattern@5b23c8fc 1 洗澡完毕
+2021-06-09 16:25:10  Decorator.Hair.HairDecoratorPattern@72614434 1 剪毛发完毕
+2021-06-09 16:25:11  PetStore.PetCare@62a46e7b 1 处于被看护状态
+2021-06-09 16:25:12  PetStore.PetCare@62a46e7b 1 在看护中，处于饥饿状态，准备投喂食物
+2021-06-09 16:25:12  PetStore.PetCare@62a46e7b 1 看护结束，提醒取回
+2021-06-09 16:25:12  Thread[Thread-4,5,main] 1 处于被喂养状态
+2021-06-09 16:25:12  Thread[Thread-4,5,main] 1 处于被喂养状态，HP恢复1
+2021-06-09 16:25:13  Thread[Thread-4,5,main] 1 处于喂养结束，HP达到90%
+2021-06-09 16:25:21  Decorator.Hair.HairDecoratorPattern@5b23c8fc 1 剪毛发 1是狗狗， 进行了以下美发操作：修剪毛发 
+2021-06-09 16:25:26  Decorator.Hair.HairDecoratorPattern@5b23c8fc 1 剪毛发完毕
